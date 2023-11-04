@@ -3,11 +3,9 @@
 *.pyc
 out
 gen
-data
 build
 dist
 /build/
-/data/
 /dist/
 /__pycache__/
 .gitattributes
@@ -26,5 +24,4 @@ dist
 *.rar
 
 exeConfig.json
-geckodriver.exe
 data.json
